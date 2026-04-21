@@ -28,3 +28,6 @@ def task_3(num: int) -> int:
 
 
 print(task_3(5))
+
+print (" all it Ok")
+
